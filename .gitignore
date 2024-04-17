@@ -1,0 +1,5 @@
+.gitsecret/keys/random_seed
+!*.secret
+secret1.txt
+secret2.txt
+secret3.txt
